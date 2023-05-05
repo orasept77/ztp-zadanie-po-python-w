@@ -1,1 +1,2 @@
-# ztp-zadanie-po-python-w
+# ztp-zadanie-po-python-comarch
+ 
