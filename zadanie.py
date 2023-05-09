@@ -10,7 +10,7 @@ def stworz_menu():
         except ValueError:
             print('Podana cena nie jest liczba')
             return
-
+#jesli wprowadzono błędnie dane
 def wyswietl_szukane():
     min_price = int(input('Wprowadz minimalna cene: '))
     max_price = int(input('Wprowadz maksymalna cene: '))
